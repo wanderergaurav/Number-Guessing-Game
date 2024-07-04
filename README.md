@@ -1,6 +1,6 @@
 # Number-Guessing-Game
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](![Screenshot 2024-07-05 021613](https://github.com/wanderergaurav/Number-Guessing-Game/assets/121711498/5e74fe21-ebbf-4933-ae0c-2bcbabe0ca4f))
 
 This is a fun and interactive number guessing game built using HTML, CSS, and JavaScript. The game challenges players to guess a random number between 1 and 100 within 10 attempts.
 
