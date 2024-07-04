@@ -15,7 +15,7 @@ This is a fun and interactive number guessing game built using HTML, CSS, and Ja
 
 ## Demo
 
-You can play the game live [here](https://your-live-demo-link.com).
+You can play the game live [here](http://127.0.0.1:5500/guess_the_number.html?).
 
 ## Features
 
