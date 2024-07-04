@@ -31,16 +31,16 @@ You can play the game live [here](http://127.0.0.1:5500/guess_the_number.html?).
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/wanderergaurav/number-guessing-game.git
+    git clone https://github.com/wanderergaurav/Number-Guessing-Game.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd number-guessing-game
+    cd Number-Guessing-Game
     ```
 
-3. Open `index.html` in your preferred web browser.
+3. Open `guess_the_number.html` in your preferred web browser.
 
 ## Usage
 
